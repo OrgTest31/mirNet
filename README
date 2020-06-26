@@ -1,0 +1,6 @@
+# mirNet
+Network analysis of gene or microRNA expression data
+
+# progress
+2020-Jun-26 created package with two functions: CFinder, pairComp
+
