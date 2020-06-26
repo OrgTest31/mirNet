@@ -1,0 +1,16 @@
+---
+title: "Introduction to mirNet"
+author: "Yuting Chen"
+date: "`r Sys.Date()`"
+bibliography: mirNet.bib
+output:
+  prettydoc::html_pretty:
+    theme: architect
+    highlight: vignette
+vignette: >
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteIndexEntry{Introduction to `mirNet`}
+  %\VignetteEncoding{UTF-8}
+---
+
+Contents will added soon...
